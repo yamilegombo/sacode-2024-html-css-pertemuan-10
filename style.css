@@ -1,0 +1,60 @@
+[19.35, 7/3/2024] +62 813-4484-8425: /* button */
+.btn-light,
+.btn-light:hover,
+.btn-light:focus {
+    color: #333;
+    text-shadow: none;
+}
+
+body {
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
+.cover-container{
+    max-width: 42em;
+}
+
+/* navbar */
+.navbar-masthead .nav-link {
+    color: rgb(255,255,255);
+    border-bottom: .25rem solid transparent;
+}
+
+.navbar-masthead .nav-link:hover,
+.navbar-masthead .nav-link:focus {
+    border-bottom-color: rgb(255,255,255);
+}
+
+.navbar-masthead .nav-link + .nav-link {
+    margin-left: 1rem;
+}
+[19.37, 7/3/2024] +62 813-4484-8425: /* button */
+.btn-light,
+.btn-light:hover,
+.btn-light:focus {
+    color: #333;
+    text-shadow: none;
+}
+
+body {
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
+.cover-container{
+    max-width: 70em;
+}
+
+/* navbar */
+.navbar-masthead .nav-link {
+    color: rgb(255,255,255);
+    border-bottom: .25rem solid transparent;
+}
+
+.navbar-masthead .nav-link:hover,
+.navbar-masthead .nav-link:focus {
+    border-bottom-color: rgb(255,255,255);
+}
+
+.navbar-masthead .nav-link + .nav-link {
+    margin-left: 3rem;
+}
